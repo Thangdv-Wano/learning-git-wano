@@ -10,6 +10,7 @@ Người dùng đã đăng nhập vào hệ thống.
 
 1. Mở màn hình danh sách tài liệu.
 2. Kiểm tra danh sách tài liệu.
+3. Chào bạn bạn là ai vâyyjyyy
 
 ### Expected Result
 
