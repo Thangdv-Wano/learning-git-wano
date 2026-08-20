@@ -19,19 +19,7 @@ Danh sách tài liệu được hiển thị.
 
 Test Case được quản lý bằng Git để các thành viên có thể cùng cập nhật và theo dõi lịch sử thay đổi.
 
-## TC-002 — Tạo mới và chỉnh sửa tài liệu dự án
+## Test Case
+## Test Case
+## Test Case
 
-### Preconditions
-
-Người dùng đã đăng nhập hệ thống với quyền **Biên tập viên (Editor)** hoặc **Quản trị viên (Admin)**.
-
-### Steps
-
-1. Nhấp chọn **"Tạo tài liệu mới"** trên thanh công cụ.
-2. Nhập đầy đủ thông tin bắt buộc: **Tiêu đề**, **Danh mục**, và **Nội dung chi tiết**.
-3. Nhấn **"Lưu nháp"**, sau đó tiến hành chỉnh sửa nội dung và nhấn **"Xuất bản"**.
-
-### Expected Result
-
-- Tài liệu mới được tạo thành công và xuất hiện ngay trong danh sách tài liệu chung.
-- Toàn bộ nội dung cập nhật được lưu chính xác, hệ thống ghi nhận đúng **Lịch sử phiên bản (Version History)**.
