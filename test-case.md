@@ -36,3 +36,28 @@ Người dùng đã đăng nhập hệ thống với quyền **Biên tập viên
 - Tài liệu mới được tạo thành công và xuất hiện ngay trong danh sách tài liệu chung.
 - Toàn bộ nội dung cập nhật được lưu chính xác, hệ thống ghi nhận đúng **Lịch sử phiên bản (Version History)**.
 
+## Test Case — Tạo tài liệu mới
+
+### Mục tiêu
+
+Kiểm tra người dùng có thể tạo và mở lại một tài liệu mới thành công trên hệ thống.
+
+### Điều kiện
+
+Người dùng đã đăng nhập và đang ở màn hình quản lý tài liệu.
+
+### Các bước thực hiện
+
+1. Mở màn hình quản lý tài liệu.
+2. Chọn chức năng tạo tài liệu mới.
+3. Nhập đầy đủ thông tin cần thiết.
+4. Chọn lưu tài liệu.
+
+### Kết quả mong đợi
+
+Tài liệu mới được tạo thành công và được hiển thị ngay trong danh sách tài liệu.
+
+### Ghi chú
+
+Tài liệu được tạo hiển thị đầy đủ thông tin và có thể mở lại từ danh sách tài liệu.
+
