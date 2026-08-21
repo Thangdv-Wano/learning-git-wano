@@ -35,3 +35,4 @@ Người dùng đã đăng nhập hệ thống với quyền **Biên tập viên
 
 - Tài liệu mới được tạo thành công và xuất hiện ngay trong danh sách tài liệu chung.
 - Toàn bộ nội dung cập nhật được lưu chính xác, hệ thống ghi nhận đúng **Lịch sử phiên bản (Version History)**.
+
