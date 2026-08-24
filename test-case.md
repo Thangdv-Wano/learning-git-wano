@@ -45,7 +45,7 @@ Người dùng đã đăng nhập và đang ở màn hình quản lý tài liệ
 1. Mở màn hình quản lý tài liệu.
 2. Chọn chức năng tạo tài liệu mới.
 3. Nhập đầy đủ thông tin cần thiết.
-4. Chọn lưu tài liệu.
+4. Chọn lưu tài liệu. 
 ### Kết quả mong đợi
 Tài liệu mới được tạo thành công và hiển thị trong danh sách tài liệu.
 ### Ghi chú
