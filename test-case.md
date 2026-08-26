@@ -50,3 +50,7 @@ Người dùng đã đăng nhập và đang ở màn hình quản lý tài liệ
 Tài liệu mới được tạo thành công và hiển thị trong danh sách tài liệu.
 ### Ghi chú
 Tài liệu được tạo cần hiển thị đầy đủ thông tin và có thể được mở lại từ danh sách tài liệu.
+
+
+### Ghi chú
+Tài liệu được tạo cần hiển thị đầy đủ thông tin và có thể được mở lại từ danh sách tài liệu.
